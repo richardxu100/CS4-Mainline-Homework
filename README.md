@@ -4,7 +4,7 @@
 Welcome! You've taken a step towards a brighter future by signing up for the CS4 Mainline Bootcamp! Below you'll find the homework assignments that will be required to be complete for the following session. You can also find resources for specific tracks if you are a more advanced student. See you soon!
 
 # Day 1 Assignment 
-> In class, we covered Activity 1 of our curriculum. At home, you'll be working on building a Scratch project from ground up. Make sure to > let us know in class tomorrow in the beginning if you get stuck so we can go over the homework. 
+> In class, we covered Activity 1 of our curriculum. At home, you'll be working on building a Scratch project from ground up. Make sure to let us know in class tomorrow in the beginning if you get stuck so we can go over the homework. 
 Our partners over at [{code club}](http://projects.codeclubworld.org/index.html) gave us projects for us to use in our curriculum. 
 ## Rock Band
 ### Introduction:
@@ -13,15 +13,15 @@ programming sprite costumes.
 ### Resources
 For this project, Scratch 2 should be used. Scratch 2 can used online at jumpto.cc/scratch-on. Use the login give to you in class! Text (484)-324-8539 if you need help!
 ### Learning Objectives
-• Sprites;
-• Costumes;
-• Sequential code blocks;
-• Events;
-• Sound and music.
+* Sprites;
+* Costumes;
+* Sequential code blocks;
+* Events;
+* Sound and music.
 ### Additional Challenges
-• “Improving your drum” - Changing sprite sounds and adding events;
-• “Changing your singer’s costume” - adding and controlling sprite costumes;
-• “Make your own band” - using the skills learnt to create new instruments.
+* “Improving your drum” - Changing sprite sounds and adding events;
+* “Changing your singer’s costume” - adding and controlling sprite costumes;
+* “Make your own band” - using the skills learnt to create new instruments.
 
 ## Scratch
 > Here you can find additional resources for MIT's Scratch. 
