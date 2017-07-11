@@ -36,10 +36,11 @@ For this project, Scratch 2 should be used. Scratch 2 can used online at jumpto.
 > These step - by - step instructions go - over intermediate Scratch Projects. 
 
 ### Advanced Scratch
-> These projects are tough. We'd encourage you to come to these once you've completed the Google CS program and the intermediate projects >above, and have time to work on these in class. You can also work on these projects at home to challenge yourself and get a chance at >"Student of the Week" or a "Great Job" certificates. 
+> These projects are tough. We'd encourage you to come to these once you've completed the Google CS program and the intermediate projects above, and have time to work on these in class. You can also work on these projects at home to challenge yourself and get a chance at "Student of the Week" or a "Great Job" certificates. 
 
 #### [Scratch Programming Projects by Nebo](http://nebomusic.net/advancedscratch.html)
 > These are some high - level projects that you can work on to challenge yourself in Scratch.
+
 Jump right into these if you've completed the previously assigned projects.
 
 Copyright CS4Mainline Summer Immersive. 
