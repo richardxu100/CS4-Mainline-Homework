@@ -40,3 +40,6 @@ For this project, Scratch 2 should be used. Scratch 2 can used online at jumpto.
 
 #### [Scratch Programming Projects by Nebo](http://nebomusic.net/advancedscratch.html)
 > These are some high - level projects that you can work on to challenge yourself in Scratch.
+Jump right into these if you've completed the previously assigned projects.
+
+Copyright CS4Mainline Summer Immersive. 
