@@ -5,7 +5,7 @@ Welcome! You've taken a step towards a brighter future by signing up for the CS4
 
 # [Day 1 Assignment](https://projects.raspberrypi.org/en/projects/rock-band) 
 > In class, we covered Activity 1 of our curriculum. At home, you'll be working on building a Scratch project from ground up. Make sure to let us know in class tomorrow in the beginning if you get stuck so we can go over the homework. 
-Our partners over at [code club] (http://projects.codeclubworld.org/index.html) gave us projects for us to use in our curriculum. 
+Our partners over at [code club](http://projects.codeclubworld.org/index.html) gave us projects for us to use in our curriculum. 
 ## Rock Band
 ### Introduction:
 In this project, children will learn how to add sound and music to their projects, as well as changing and
