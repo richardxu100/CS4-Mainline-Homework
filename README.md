@@ -3,6 +3,31 @@
 
 Welcome! You've taken a step towards a brighter future by signing up for the CS4 Mainline Bootcamp! Below you'll find the homework assignments that will be required to be complete for the following session. You can also find resources for specific tracks if you are a more advanced student. See you soon!
 
+# [Day 2 Assignment](https://codeclubprojects.org/en-GB/scratch/lost-in-space/)
+## Introduction:
+In this project, children will learn how to combine code blocks to create a simple animation.
+
+Resources
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at jumpto.cc/scratch-on or can be downloaded from jumpto.cc/scratch-off and used offline.
+
+You can find a completed version of this project online, or it can be downloaded by clicking the ‘Project Materials’ link for this project, which contains:
+
+LostInSpace.sb2
+Learning Objectives
+
+Loops:
+Repeat loops;
+Forever loops.
+This project covers elements from the following strands of the Raspberry Pi Digital Making Curriculum:
+
+Use basic programming constructs to create simple programs.
+Challenges
+
+“Improving your animation” - altering the numbers in a short program;
+“Make your own animation” - applying the learning to make a new animation.
+
+__________________________________________________________________________________________________________________
+
 # [Day 1 Assignment](https://projects.raspberrypi.org/en/projects/rock-band) 
 > In class, we covered Activity 1 of our curriculum. At home, you'll be working on building a Scratch project from ground up. Make sure to let us know in class tomorrow in the beginning if you get stuck so we can go over the homework. 
 Our partners over at [code club](http://projects.codeclubworld.org/index.html) gave us projects for us to use in our curriculum. 
