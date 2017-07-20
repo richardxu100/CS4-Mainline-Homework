@@ -3,6 +3,20 @@
 
 Welcome! You've taken a step towards a brighter future by signing up for the CS4 Mainline Bootcamp! Below you'll find the homework assignments that will be required to be complete for the following session. You can also find resources for specific tracks if you are a more advanced student. See you soon!
 
+## [Day 3](https://codeclubprojects.org/en-GB/scratch/ghostbusters/)
+## Introduction:
+In this project, children will learn how to use variables to store data in their programs.
+## Resources
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at jumpto.cc/scratch-on or can be downloaded from jumpto.cc/scratch-off and used offline.
+
+You can find a completed version of this project online, or it can be downloaded by clicking the ‘Project Materials’ link for this project, which contains:
+
+Ghostbusters.sb2
+Learning Objectives
+
+Variables;
+Random numbers.
+_____________________________________________________________________________________________________________
 # [Day 2 Assignment](https://codeclubprojects.org/en-GB/scratch/lost-in-space/)
 ## Introduction:
 In this project, children will learn how to combine code blocks to create a simple animation.
