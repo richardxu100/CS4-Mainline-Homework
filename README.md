@@ -3,7 +3,8 @@
 
 Welcome! You've taken a step towards a brighter future by signing up for the CS4 Mainline Bootcamp! Below you'll find the homework assignments that will be required to be complete for the following session. You can also find resources for specific tracks if you are a more advanced student. See you soon!
 
-## [Day 3](https://codeclubprojects.org/en-GB/scratch/ghostbusters/)
+# [Day 3 Assignment](https://codeclubprojects.org/en-GB/scratch/ghostbusters/)
+
 ## Introduction:
 In this project, children will learn how to use variables to store data in their programs.
 ## Resources
@@ -16,6 +17,13 @@ Learning Objectives
 
 Variables;
 Random numbers.
+
+## Website Challenge (optional)
+
+**This project is directed towards the older coders who would like to experiment with more difficult material.** Create an account on [dash](https://dash.generalassemb.ly/) and finish <u>PROJECT 1: BUILD A PERSONAL WEBSITE</u> before Monday's class. You'll be working with HTML & CSS to build a portfolio website. Extra credit will be given to people who remix this project on [codepen.io](codepen.io). 
+
+There a few coders who said they'd like to build apps, so here's a challenge to learn the coding languages which power sites and apps like Twitter and Youtube. Future tutorials will incorporate JavaScript, a powerful scripting language which can build everything from AI to web, desktop, and phone apps. I'm excited to see the sites you build! -Richard
+
 _____________________________________________________________________________________________________________
 # [Day 2 Assignment](https://codeclubprojects.org/en-GB/scratch/lost-in-space/)
 ## Introduction:
@@ -44,7 +52,7 @@ ________________________________________________________________________________
 
 # [Day 1 Assignment](https://projects.raspberrypi.org/en/projects/rock-band) 
 > In class, we covered Activity 1 of our curriculum. At home, you'll be working on building a Scratch project from ground up. Make sure to let us know in class tomorrow in the beginning if you get stuck so we can go over the homework. 
-Our partners over at [code club](http://projects.codeclubworld.org/index.html) gave us projects for us to use in our curriculum. 
+> Our partners over at [code club](http://projects.codeclubworld.org/index.html) gave us projects for us to use in our curriculum. 
 ## Rock Band
 ### Introduction:
 In this project, children will learn how to add sound and music to their projects, as well as changing and
