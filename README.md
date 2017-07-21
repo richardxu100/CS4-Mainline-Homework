@@ -20,7 +20,7 @@ Random numbers.
 
 ## Website Challenge (optional)
 
-**This challenge is directed towards the older coders who would like to experiment with more difficult material.** Create an account on [dash](https://dash.generalassemb.ly/) and finish <u>PROJECT 1: BUILD A PERSONAL WEBSITE</u> before Monday's class. You'll be working with HTML & CSS to build a portfolio website. Extra credit will be given to people who remix this project on [codepen.io](codepen.io). 
+**This challenge is directed towards the older coders who would like to experiment with more difficult material.** Create an account on [dash](https://dash.generalassemb.ly/) and finish <u>PROJECT 1: BUILD A PERSONAL WEBSITE</u> before Monday's class. You'll be working with HTML & CSS to build a portfolio website. Extra credit will be given to people who remix this project on [codepen.io](https://codepen.io/). 
 
 There a few coders who said they'd like to build apps, so here's a challenge to learn the coding languages which power sites and apps like Twitter and Youtube. Future tutorials will incorporate JavaScript, a powerful scripting language which can build everything from AI to web, desktop, and phone apps. I'm excited to see the sites you build! -Richard
 
